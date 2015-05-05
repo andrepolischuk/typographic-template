@@ -1,0 +1,26 @@
+{
+  "name": "typographic-template",
+  "description": "Replace all :keys in text with given options",
+  "version": "0.0.0",
+  "keywords": [
+    "template",
+    "textr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrepolischuk/typographic-template.git"
+  },
+  "dependencies": {
+    "mnml-tpl": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "textr": "^0.3.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andrey Polischuk <andre.polischuk@gmail.com>",
+  "license": "MIT"
+}
