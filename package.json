@@ -6,10 +6,7 @@
     "template",
     "textr"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/andrepolischuk/typographic-template.git"
-  },
+  "repository": "andrepolischuk/typographic-template",
   "dependencies": {
     "mnml-tpl": "^1.0.2"
   },

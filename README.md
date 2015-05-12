@@ -1,6 +1,6 @@
 # typographic-template [![Build Status](https://travis-ci.org/andrepolischuk/typographic-template.svg?branch=master)](https://travis-ci.org/andrepolischuk/typographic-template)
 
-  Replace all :keys in text with given options
+  > Replace all :keys in text with given options
 
 ## Instalation
 
@@ -9,6 +9,12 @@ $ npm install --save typographic-template
 ```
 
 ## Usage
+
+```js
+var template = require('typographic-template');
+
+template('Hello :name!', {name: 'Ivan'}); // Hello Ivan!
+```
 
   With [textr](https://github.com/shuvalov-anton/textr)
 

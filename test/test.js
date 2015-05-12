@@ -1,4 +1,6 @@
 
+'use strict';
+
 var template = require('..');
 var assert = require('assert');
 
