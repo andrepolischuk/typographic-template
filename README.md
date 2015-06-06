@@ -2,10 +2,10 @@
 
   > Replace all :keys in text with given options
 
-## Instalation
+## Install
 
 ```sh
-$ npm install --save typographic-template
+npm install --save typographic-template
 ```
 
 ## Usage

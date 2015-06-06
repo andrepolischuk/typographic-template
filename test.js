@@ -1,7 +1,7 @@
 
 'use strict';
 
-var template = require('..');
+var template = require('./');
 var assert = require('assert');
 
 describe('template(input, options)', function() {
