@@ -1,7 +1,7 @@
 {
   "name": "typographic-template",
   "description": "Replace all :keys in text with given options",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "keywords": [
     "template",
     "textr"
